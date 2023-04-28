@@ -1,1 +1,3 @@
-# Master-Thesis
+As the world's population increases, so does the demand for food. However, traditional farming methods are not sustainable in meeting this demand due to limited soil and plant diseases that can significantly reduce crop yield. The solution may lie in the use of artificial intelligence (AI) in agriculture, which can improve disease detection and prediction of crop yield. This thesis focuses on a feasibility study to predict crop yield based on crop damage using AI. It covers the theoretical foundation of deep learning, digital transformation, smart farming, and AI, along with research methodology and a case study on leaf disease detection using a deep learning algorithm. The output and insights of the thesis are discussed, along with its limitations and conclusions. 
+
+#AI In Agriculture#Crop Yield Prediction#Disease Detection#Artificial Intelligence#Deep Learning#EfficientNetB3
